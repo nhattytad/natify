@@ -1,7 +1,2 @@
-:root{
-    --color-primary:#2584ff;
-    --color-secondary:#00d9ff;
-    --color-accent:#ff3400;
-    --color-heading:#1b0760;
-    --color-body:#918ca4;
-}
+html {
+    /*62.5% of 16px = 10
